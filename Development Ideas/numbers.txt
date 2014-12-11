@@ -1,0 +1,3 @@
+Numbers are exactly 10x11
+Numbers have a 1 pixel gap between them
+Numbers start at (top-left corner of 10x11) (552, 28)

@@ -1,0 +1,22 @@
+b[w,x,y,z|Type of Tower][1-9|Location]
+u[1-9|Tower Number]
+
+EG
+--
+bw1bw8u1bz9u1
+
+Interpretation
+--------------
+The DNA is the build order - bases are followed in order.
+The next base is not executed until the previous is executed.
+The current base is executed as soon as there is enough money
+(this will probably be done by checking colours of buttons**)
+
+**Checking colours of buttons.
+Sometimes the buttons to build the towers will not be highlighted
+even if conditions are met.
+
+Not Allowed
+-----------
+bw1u2
+No tower has been built at location 2.
