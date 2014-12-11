@@ -2,7 +2,7 @@
 
 A program to automatically play the tower defence game [FrozenDefence2](http://pivotfinland.com/frozendefence2/).
 
-**The game is no longer fully-functional. The program has not been updated for the current iteration of the game (Last checked, July 2014).**
+**The game is no longer fully-functional. Auto Tower Defence has not been updated for the current iteration of the game (Last checked, July 2014).**
 
 ## Notes
 
